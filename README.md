@@ -1,5 +1,6 @@
 # telecom-churn
 telecom_churn_data.zip: The dataset contains customer-level information for a span of four consecutive months - June, July, August and September which is encoded as 6,7,8 and 9 respectively.
+
 Data Dictionary: The Data Dictionary contains meanings of the abbreviations used.
 
 The objective is to predict the churn rate in the last (i.e. the ninth) month using the data (features) from the first three months and identify the important predictors of customer churn.
